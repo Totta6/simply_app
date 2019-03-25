@@ -1,3 +1,6 @@
 [submodule "hello_world"]
 	path = hello_world
-	url = https://github.com/simone-viozzi/hello_world.git
+	url = https://github.com/Totta6/hello_world.git
+[submodule "submodule-test"]
+	path = submodule-test
+	url = https://github.com/Totta6/submodule-test.git
